@@ -9,7 +9,7 @@ I build scalable, modern web applications using **React.js, Next.js, Node.js, an
 ### Tech Stack & Skills
 
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, Laravel, RESTful APIs
+- **Backend:** Node.js, Express.js, RESTful APIs
 - **Databases:** MongoDB, PostgreSQL
 - **Tools & DevOps:** Git, GitHub, Docker, VS Code
 
